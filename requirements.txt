@@ -4,3 +4,4 @@ pypdf
 faiss-cpu
 streamlit
 boto3
+python-dotenv
